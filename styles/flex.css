@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.picture{
+    max-width: 100%;
+    object-fit: contain;
+}
+
+.box{
+    width: 20em;
+}
